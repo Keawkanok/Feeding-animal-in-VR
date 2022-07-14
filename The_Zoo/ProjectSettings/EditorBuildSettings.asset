@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e4c3c73e5e4f00140b8a1c2df528b3bd
+  - enabled: 1
+    path: Assets/Scenes/Scenes1.unity
+    guid: 9bd15233320eb144987771014efa69e2
+  - enabled: 1
+    path: Assets/Scenes/Scenes2.unity
+    guid: a6ca647a20607604bada39b0acd592e0
+  - enabled: 1
+    path: Assets/NatureManufacture Assets/Forest Environment Dynamic Nature/Demo
+      Scenes/Forest Demo Scene.unity
+    guid: 3c698a3ac77025942a8cd0682cb02889
+  - enabled: 1
+    path: Assets/Scenes/Scenes02Map_2.unity
+    guid: 3a4671cd983c8794697ea371a653933e
+  - enabled: 1
+    path: Assets/Scenes/Scenes03Map_2.unity
+    guid: 698107e8acd31a045be51b2e03a267a7
+  - enabled: 1
+    path: Assets/Scenes/Menu_Re_Map02.unity
+    guid: 85632e6be0f789e449538df7cefe66e5
+  - enabled: 1
+    path: Assets/Scenes/Food.unity
+    guid: 63ec87f88cf4a9547a54fad4f00db683
+  - enabled: 1
+    path: Assets/Scenes/Manual.unity
+    guid: 7b9a0f520063d574aa369dfe66d41e09
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 73295c8be9cd5b04789488af17931086, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: bee34dbe8fd059542beb42d0b5e3cff7, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 639be74bd7a0bcf4aa74c3022de5da67, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 6bd1733c630427143a80f7851b5912e7, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: b1cea263eca577949a6f7d757f8c09d2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 695c047244118f948b51882e3304a4f6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ee8d8e75a04f3974daee1994291fd641, type: 2}
